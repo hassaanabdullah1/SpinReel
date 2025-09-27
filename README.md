@@ -44,7 +44,6 @@ SpinReel/
    ```bash
    git clone https://github.com/hassaanabdullah1/spinreel.git
    cd spinreel
-````
 
 2. Run the game:
 
